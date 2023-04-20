@@ -1,2 +1,2 @@
 <?php
-echo "Hello, world!\n";
+echo "Meu primeiro site com integração continua do Azure!\n";
